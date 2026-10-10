@@ -1,5 +1,5 @@
 ---
-name: sharepoint-page-asset-cleanup
+name: sharepoint-page-assets-cleanup
 description: |-
   Inspect modern SharePoint pages for image assets and identify unused files in SiteAssets/SitePages/<Page> folders. Present an auditable cleanup inventory, ask before recycling anything, recycle safely, and verify references remain.
 
