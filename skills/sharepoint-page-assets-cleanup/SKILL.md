@@ -12,7 +12,7 @@ description: |-
 # SharePoint page asset cleanup
 
 ## When to use
-Use when Stefan asks to list images used by a modern SharePoint page or identify and safely clean unused assets in `SiteAssets/SitePages/<Page>` folders.
+Use when asks to list images used by a modern SharePoint page or identify and safely clean unused assets in `SiteAssets/SitePages/<Page>` folders.
 
 Do not use page screenshots or the page DOM. Work through SharePoint REST using `mcp__claude-in-chrome__javascript_tool` in a browser tab already on the target site so the signed-in session provides authentication.
 
